@@ -7,7 +7,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 .main-container{
   margin-left: 0px !important;
-  margin-top: 10px
   } 
 ```
 
