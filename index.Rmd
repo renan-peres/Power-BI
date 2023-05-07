@@ -10,6 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
   } 
 ```
 
-```{r, echo=FALSE,out.width=1850}
+```{r, echo=FALSE,out.width=1820}
 knitr::include_url("https://app.powerbi.com/reportEmbed?reportId=9003d92f-5d23-47e2-82b9-38e57a1b7bb4&autoAuth=true&ctid=b8e8d71a-947d-41dd-81dd-8401dcc51007", height = "950px")
 ```
